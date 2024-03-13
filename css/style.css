@@ -333,9 +333,12 @@ li.dropdown.act a.w3_icons_act {
 }
 
 /*-- //menu --*/
-.w3l_banner_info{
-	width: 80%;
-    margin: 13em auto 0;
+.w3l_banner_info {
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 6em 50px;
 }
 .wthree_banner_info_grid h3 {
    font-size: 4em;
